@@ -5,4 +5,4 @@ Are you struggling to keep your succulents alive? Or maybe you’re just getting
 
 Succu is a learning app dedicated to provide various useful informations about succulents.
 
-![App Icon]("UI Design/Logo.png")
+![App Icon]("https://github.com/Fherlaban/succu/blob/master/UI%20Design/Logo.png")
