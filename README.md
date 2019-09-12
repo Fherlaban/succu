@@ -5,4 +5,3 @@ Are you struggling to keep your succulents alive? Or maybe you’re just getting
 
 Succu is a learning app dedicated to provide various useful informations about succulents.
 
-**Having trouble for now and trying to resolve some design issues
