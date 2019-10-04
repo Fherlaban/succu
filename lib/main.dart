@@ -9,7 +9,7 @@ void main() => runApp(MaterialApp(
         primaryColor: Colors.lightGreen[800],
         accentColor: Colors.lightGreenAccent[600],
       ),
-      home: HomeScreen(),
+      home: new HomeScreen(),
 ));
 
 class HomeScreen extends StatelessWidget {
