@@ -9,6 +9,7 @@ void main() => runApp(MaterialApp(
 class HomeScreen extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
+    
     var divheight = MediaQuery.of(context).size.height;
 
     return Scaffold(
