@@ -17,6 +17,7 @@ class HomeScreen extends StatelessWidget {
         height: divheight/2*0.3,
         color: Colors.black54,
 
+
       ),
     );
   }
