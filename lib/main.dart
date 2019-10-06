@@ -15,7 +15,7 @@ class HomeScreen extends StatelessWidget {
     return Scaffold(
       body: new Container(
         height: divheight/2*0.3,
-        color: Colors.black54,
+        color: Colors.white,
 
 
       ),
