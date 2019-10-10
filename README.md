@@ -9,4 +9,4 @@ Succu is a learning app dedicated to provide various useful informations about s
 <div>&emsp;<img src="UI%20Design/Splash_Art.png" width="200">&emsp;<img src="UI%20Design/Main_Menu.png" width="200">&emsp;<img src="UI%20Design/Side_Menu.png" width="200">&emsp;<img src="UI%20Design/Item_View.png" width="200"></div>
 
 
-# PERSONAL PROJECT ON HOLD
+# PERSONAL PROJECT ON HOLD (HIATUS LOL)
